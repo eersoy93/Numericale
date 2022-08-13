@@ -44,7 +44,7 @@
             // 
             // ButtonKey1
             // 
-            this.ButtonKey1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey1.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey1.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey1.Location = new System.Drawing.Point(12, 12);
             this.ButtonKey1.Name = "ButtonKey1";
@@ -56,7 +56,7 @@
             // 
             // ButtonKey2
             // 
-            this.ButtonKey2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey2.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey2.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey2.Location = new System.Drawing.Point(163, 12);
             this.ButtonKey2.Name = "ButtonKey2";
@@ -68,7 +68,7 @@
             // 
             // ButtonKey3
             // 
-            this.ButtonKey3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey3.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey3.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey3.Location = new System.Drawing.Point(314, 12);
             this.ButtonKey3.Name = "ButtonKey3";
@@ -80,7 +80,7 @@
             // 
             // ButtonKey4
             // 
-            this.ButtonKey4.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey4.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey4.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey4.Location = new System.Drawing.Point(12, 132);
             this.ButtonKey4.Name = "ButtonKey4";
@@ -92,7 +92,7 @@
             // 
             // ButtonKey5
             // 
-            this.ButtonKey5.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey5.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey5.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey5.Location = new System.Drawing.Point(163, 132);
             this.ButtonKey5.Name = "ButtonKey5";
@@ -104,7 +104,7 @@
             // 
             // ButtonKey6
             // 
-            this.ButtonKey6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey6.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey6.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey6.Location = new System.Drawing.Point(314, 132);
             this.ButtonKey6.Name = "ButtonKey6";
@@ -116,7 +116,7 @@
             // 
             // ButtonKey7
             // 
-            this.ButtonKey7.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey7.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey7.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey7.Location = new System.Drawing.Point(12, 252);
             this.ButtonKey7.Name = "ButtonKey7";
@@ -128,7 +128,7 @@
             // 
             // ButtonKey8
             // 
-            this.ButtonKey8.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey8.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey8.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey8.Location = new System.Drawing.Point(163, 252);
             this.ButtonKey8.Name = "ButtonKey8";
@@ -140,7 +140,7 @@
             // 
             // ButtonKey9
             // 
-            this.ButtonKey9.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey9.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey9.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey9.Location = new System.Drawing.Point(314, 252);
             this.ButtonKey9.Name = "ButtonKey9";
@@ -152,7 +152,7 @@
             // 
             // ButtonKeyAbout
             // 
-            this.ButtonKeyAbout.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKeyAbout.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKeyAbout.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKeyAbout.Location = new System.Drawing.Point(12, 372);
             this.ButtonKeyAbout.Name = "ButtonKeyAbout";
@@ -164,7 +164,7 @@
             // 
             // ButtonKey0
             // 
-            this.ButtonKey0.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKey0.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKey0.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKey0.Location = new System.Drawing.Point(163, 372);
             this.ButtonKey0.Name = "ButtonKey0";
@@ -176,7 +176,7 @@
             // 
             // ButtonKeyEnter
             // 
-            this.ButtonKeyEnter.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ButtonKeyEnter.BackColor = System.Drawing.Color.LimeGreen;
             this.ButtonKeyEnter.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ButtonKeyEnter.Location = new System.Drawing.Point(314, 372);
             this.ButtonKeyEnter.Name = "ButtonKeyEnter";
